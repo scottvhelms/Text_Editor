@@ -1,3 +1,5 @@
+/*author: Scott Helms*/
+
 int main()
 {
 
